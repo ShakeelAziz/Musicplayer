@@ -12,16 +12,6 @@
 * Learn your hobby, automatically create new playlist
 * etc
 
-### Installing
-The app will be available in Google Play Store soon.
-```
-Comming soon
-```
-### APK
-Download apk file here [Music player v1.3](https://github.com/dtrung98/Source/raw/master/Music_player_v1_3.apk)
-```
-https://github.com/dtrung98/Source/raw/master/music_player_v1_2.apk
-```
 ## Screenshots
 
 <div align="center">
@@ -63,18 +53,4 @@ src="https://user-images.githubusercontent.com/33343210/61764970-4eb40180-ae05-1
 </table>
   </div>
 
-## Authors
-
-* **Le Dinh Trung (ldt)** - *Initial work* - [dtrung98](https://github.com/dtrung98)
-
-
-### License
-
-* This project is licensed under The GNU General Public License v3.0 - see the [LICENSE.md](/LICENSE) file for details
-
-### Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
 
